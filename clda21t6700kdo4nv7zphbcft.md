@@ -5,7 +5,7 @@ seoDescription: "All about open-source"
 datePublished: Tue Jan 24 2023 09:48:41 GMT+0000 (Coordinated Universal Time)
 cuid: clda21t6700kdo4nv7zphbcft
 slug: what-is-open-source
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681239321718/043a42e5-6305-48f6-b7c1-edc804b69de5.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681239460436/777cdd14-fcd6-4e2e-b648-8f00ab338543.png
 tags: artificial-intelligence, big-data, devops, opensource-inactive, big-data-analytics
 
 ---
