@@ -5,6 +5,7 @@ seoDescription: "What is devops? Importance of DevOps? Introduction to DevOps"
 datePublished: Tue Apr 11 2023 04:49:12 GMT+0000 (Coordinated Universal Time)
 cuid: clgbs99ig000308mwbf4y0kcy
 slug: unlocking-the-benefits-of-devops
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681239129834/f5dac042-2dee-4480-9493-68ab9236f796.jpeg
 tags: automation, devops, agile, cicd, devops-articles
 
 ---
