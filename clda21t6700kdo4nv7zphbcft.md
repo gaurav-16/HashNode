@@ -1,4 +1,14 @@
-# What is Open-Source?
+---
+title: "What is Open-Source?"
+seoTitle: "What is Open-Source"
+seoDescription: "All about open-source"
+datePublished: Tue Jan 24 2023 09:48:41 GMT+0000 (Coordinated Universal Time)
+cuid: clda21t6700kdo4nv7zphbcft
+slug: what-is-open-source
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681239321718/043a42e5-6305-48f6-b7c1-edc804b69de5.jpeg
+tags: artificial-intelligence, big-data, devops, opensource-inactive, big-data-analytics
+
+---
 
 Open source software is a type of software whose source code is available for anyone to use, modify, and distribute. This means that the software can be freely used, modified, and distributed by anyone, as long as they comply with the terms of the open-source license.
 
